@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CoolingFan/static/css/main.7625427c.chunk.css",
+    "main.css": "/CoolingFan/static/css/main.f323d59a.chunk.css",
     "main.js": "/CoolingFan/static/js/main.5deb964a.chunk.js",
     "main.js.map": "/CoolingFan/static/js/main.5deb964a.chunk.js.map",
     "runtime-main.js": "/CoolingFan/static/js/runtime-main.06082002.js",
@@ -8,13 +8,13 @@
     "static/js/2.3b677b2b.chunk.js": "/CoolingFan/static/js/2.3b677b2b.chunk.js",
     "static/js/2.3b677b2b.chunk.js.map": "/CoolingFan/static/js/2.3b677b2b.chunk.js.map",
     "index.html": "/CoolingFan/index.html",
-    "static/css/main.7625427c.chunk.css.map": "/CoolingFan/static/css/main.7625427c.chunk.css.map",
+    "static/css/main.f323d59a.chunk.css.map": "/CoolingFan/static/css/main.f323d59a.chunk.css.map",
     "static/js/2.3b677b2b.chunk.js.LICENSE.txt": "/CoolingFan/static/js/2.3b677b2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.06082002.js",
     "static/js/2.3b677b2b.chunk.js",
-    "static/css/main.7625427c.chunk.css",
+    "static/css/main.f323d59a.chunk.css",
     "static/js/main.5deb964a.chunk.js"
   ]
 }
